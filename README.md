@@ -34,7 +34,7 @@ requirements.txt – Project dependencies
 How to Run:
 
 Clone the repository
-git clone https://github.com/your-username/Crime-data-dashboard.git
+git clone https://github.com/suyashdabholkar/Crime-data-dashboard.git
 
 Install dependencies
 pip install -r requirements.txt
